@@ -1,0 +1,10 @@
+tensorflow>=2.16.0
+  numpy
+  pandas
+  matplotlib
+  seaborn
+  opencv-python
+  scikit-learn
+  pillow
+  streamlit
+  kagglehub
